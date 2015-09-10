@@ -5,7 +5,7 @@
 }
 
 main {
-	margin-top: 25px;
+	margin-top: 35px;
 }
 
 img.imgCircular {
@@ -24,4 +24,12 @@ img#imgSettings {
 
 .centered-text {
 	text-align: center;
+}
+
+.mdi-navigation-menu {
+	color: #000000;
+}
+
+.max-height {
+	height: 100vh;
 }
